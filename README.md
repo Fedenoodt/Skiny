@@ -1,4 +1,4 @@
-# Gestor de Notas
+# Gestor de Notas "Skiny"
 
 Este va a manejar el sistema de gestiòn de unas notas sencillas, con tìtulo, y contenido.
 
